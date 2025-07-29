@@ -1,4 +1,7 @@
-// El principal objetivo de este desafío es fortalecer tus habilidades en lógica de programación. Aquí deberás desarrollar la lógica para resolver el problema.
-//Hola este ees un comentario
-//Hola rodri
-//Hola Brand
+//Crear un array para almacenar los nombres
+let amigos = [];
+
+//Implementa una funcion para agregar amigos
+document.getElementById
+
+
