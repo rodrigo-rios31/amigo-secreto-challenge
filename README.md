@@ -47,11 +47,17 @@ Aqui se muestra como despues de agregar los nombres se van guardandon en forma d
 ## 📂 Estructura del proyecto
 proyecto-selector-amigos/
 ├──assets
+
 ├ ├──amigo-secreto-png
+
 ├ ├──play_circle_outline.png
+
 ├── app.js
+
 ├── index.html
+
 ├── style.css
+
 └── README.md
 
 ---
@@ -80,4 +86,4 @@ Este proyecto está bajo la licencia MIT. Puedes usarlo y modificarlo libremente
 
 ## 🙌 Autor
 
-Desarrollado por [rodrigo-rios31]
+Desarrollado por [rodrigo-rios31] https://github.com/rodrigo-rios31
