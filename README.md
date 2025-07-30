@@ -49,6 +49,8 @@ proyecto-selector-amigos/
 
 ├──assets
 
+└── README.md
+
 ├ ├──amigo-secreto-png
 
 ├ ├──play_circle_outline.png
@@ -59,7 +61,6 @@ proyecto-selector-amigos/
 
 ├── style.css
 
-└── README.md
 
 ---
 
