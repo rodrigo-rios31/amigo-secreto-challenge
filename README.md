@@ -46,6 +46,7 @@ Aqui se muestra como despues de agregar los nombres se van guardandon en forma d
 
 ## 📂 Estructura del proyecto
 proyecto-selector-amigos/
+
 ├──assets
 
 ├ ├──amigo-secreto-png
