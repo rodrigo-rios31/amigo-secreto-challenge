@@ -20,7 +20,6 @@ Perfecto para tomar decisiones al azar, organizar juegos, sorteos, ¡o simplemen
 
 ## 🖼️ Vista previa de la aplicación
 
-> Aquí puedes añadir capturas de pantalla para mostrar cómo funciona tu página. Usa rutas relativas o enlaces según el lugar donde alojes las imágenes.
 
 ### 📌 Interfaz principal
 
@@ -30,7 +29,8 @@ Perfecto para tomar decisiones al azar, organizar juegos, sorteos, ¡o simplemen
 
 <img width="1350" height="639" alt="image" src="https://github.com/user-attachments/assets/42af4fbb-e14e-45b4-8141-06deae2d36a3" />
 
-Aqui se muestra como despues de agregar los nombres se van guardandon en forma de lista en el orden en el que los vayamos insertando:
+
+### Aqui se muestra como despues de agregar los nombres se van guardandon en forma de lista en el orden en el que los vayamos insertando:
 <img width="1345" height="640" alt="image" src="https://github.com/user-attachments/assets/82420391-bd70-4bc2-a795-885617f7c3cf" />
 
 ### 🎲 Selección aleatoria
