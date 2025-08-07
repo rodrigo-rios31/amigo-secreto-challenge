@@ -21,7 +21,7 @@ document.getElementById('entrada').value = "";
 function seleccionAmigo(){
     let listaAmigos = document.getElementById('listaAmigos');
     let amigos = listaAmigos.getElementsByTagName('li');
-    let nombres = []
+    let nombres = [];
 
     for(let i = 0; i <= amigos.length-1; i++){
         console.log (amigos [i].textContent);
